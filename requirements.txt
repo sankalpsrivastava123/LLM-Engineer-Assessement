@@ -1,0 +1,7 @@
+streamlit
+langchain-community
+langchain-openai
+dotted-dict
+pandas
+langchain_text_splitters
+langchain_core
